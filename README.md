@@ -1,2 +1,2 @@
-# EDA-on-Haberman-Dataset
-This file is about, Exploratory data analysis on Haberman Dataset using Univariate and Bivariate analysis.
+# Python Programming
+Various coding problems solved using Python as a language and libraries like Numpy, Pandas, Pandas and data structures.
