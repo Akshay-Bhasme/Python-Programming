@@ -1,2 +1,2 @@
 # Python Programming
-Various coding problems solved using Python as a language and libraries like Numpy, Pandas, Pandas and data structures.
+Various coding problems solved by Python language using libraries and data structures.
